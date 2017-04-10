@@ -1,0 +1,21 @@
+{
+    "name": "karogis/berkas",
+    "description": "Laravel File Manager",
+    "require": {
+        "php": ">=5.6.4",
+        "illuminate/support": "^5.4",
+        "illuminate/database": "^5.4"
+    },
+    "license": "MIT License",
+    "authors": [
+        {
+            "name": "Rifai M. Hanif",
+            "email": "hanreev@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Karogis\\Berkas\\": "src/"
+        }
+    }
+}
